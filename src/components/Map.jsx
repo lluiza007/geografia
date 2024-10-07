@@ -1,7 +1,7 @@
 // src/components/Map.js
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import './Map.css'; 
+import '../components/Map.css'; 
 
 
 const Map = () => {
@@ -39,6 +39,10 @@ const Map = () => {
         <g className="norte" onClick={() => handleStateClick('Tocantins')} style={{ cursor: 'pointer' }}>
           <path d="M..." />
           <text x="250" y="300">Tocantins</text>
+        </g>
+        <g className="norte" onClick={() => handleStateClick('Amapá')} style={{ cursor: 'pointer' }}>
+          <path d="M..." />
+          <text x="190" y="50">Amapá</text>
         </g>
         
         {/* Região Nordeste */}

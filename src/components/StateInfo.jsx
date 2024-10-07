@@ -133,6 +133,16 @@ const stateData = {
     populacao: '1.607.363 habitantes',
     descricao: 'Tocantins é o mais novo estado do Brasil, conhecido por suas belezas naturais, como o Jalapão.',
   },
+  Amapá: {
+    Capital: 'Macapá',
+    Região: 'Norte',
+    População: 'Cerca de 877 mil habitantes (estimativa de 2021)',
+    Área: '142.814 km²',
+    Economia: 'A economia do Amapá é baseada principalmente em atividades de extrativismo mineral, agricultura e serviços públicos. O estado é rico em manganês e tem uma grande reserva de bauxita',
+    Cultura: 'O estado tem forte influência das culturas indígena e africana, com festas típicas como o Marabaixo e o Círio de Nazaré. Sua culinária inclui pratos como tacacá, maniçoba e peixe com açaí',
+    Turismo: 'Entre os principais pontos turísticos estão a Fortaleza de São José de Macapá, o Marco Zero do Equador e o Parque Nacional do Cabo Orange, localizado no extremo norte do estado',
+    Curiosidade: 'O Amapá é o único estado brasileiro que é cortado pela Linha do Equador, e o monumento do Marco Zero é um importante ponto de visitação',
+  },
 };
 
 const StateInfo = () => {
