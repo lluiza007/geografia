@@ -4,6 +4,7 @@ import { useParams } from 'react-router-dom';
 
 const stateData = {
   Acre: {
+    
     capital: 'Rio Branco',
     populacao: '894.470 habitantes',
     descricao: 'Acre é um estado localizado na região Norte do Brasil, conhecido por sua biodiversidade e pela floresta amazônica.',
