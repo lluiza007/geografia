@@ -1,0 +1,41 @@
+/* src/components/Map.css */
+.map-container {
+    text-align: center;
+  }
+  
+  .norte path {
+    fill: #a3d9f4;
+    stroke: #000;
+    stroke-width: 1px;
+  }
+  
+  .nordeste path {
+    fill: #f4a3d9;
+    stroke: #000;
+    stroke-width: 1px;
+  }
+  
+  .centro-oeste path {
+    fill: #d9f4a3;
+    stroke: #000;
+    stroke-width: 1px;
+  }
+  
+  .sudeste path {
+    fill: #f4d9a3;
+    stroke: #000;
+    stroke-width: 1px;
+  }
+  
+  .sul path {
+    fill: #a3f4d9;
+    stroke: #000;
+    stroke-width: 1px;
+  }
+  
+  text {
+    font-size: 14px;
+    fill: #000;
+  }
+  
+        

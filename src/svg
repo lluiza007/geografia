@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 1000">
+  <g id="Acre">
+    <path d="M...Z" fill="#ccc" stroke="#000" stroke-width="1"/>
+  </g>
+  <g id="Alagoas">
+    <path d="M...Z" fill="#ccc" stroke="#000" stroke-width="1"/>
+  </g>
+  <!-- Adicionar mais estados -->
+</svg>
